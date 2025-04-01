@@ -1,0 +1,59 @@
+body {	
+	background: #AFEEEE;
+	color: #000000;
+	font-family: Trebuchet MS, Arial, Times New Roman;
+	font-size: 14px;
+}
+.wrapper{
+	background: #FFF5EE;
+	margin:0px auto 0px;
+	width: 100%;
+	height: 90%;
+}
+.header {
+	background: #F0FFF0;
+	width: 100%;
+	height: 10%;
+}
+.content {
+	display: flex;
+	background: F5F5DC;
+	width: 100%;
+	height: 40%;
+}
+.content1 {
+	display: flex;
+	background: F5F5DC;
+	width: 100%;
+	height: 80%;
+}
+.description {
+	background: #F0FFF0;
+	width: 100%;
+	height: 10%;
+}
+.photo {
+	background: #F5F5DC;
+	width: 27%;
+	height: 100%;
+}
+.spisok {
+ 	background: #F5F5DC;
+	width: 20%;
+	height: 100%;
+}
+.spisok2 {
+	background: #F5F5DC;
+	width: 43%;
+	height: 100%;
+}
+.step {
+	background: #F5F5DC;
+	width: 100%;
+	height: 100%;
+}
+.separator2 {
+	background: #F5F5DC;
+	width: 5%;
+	height: 100%;
+}
